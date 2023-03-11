@@ -1,0 +1,15 @@
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\bin\Debug\net6.0\TPMOD4_1302213061.exe
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\bin\Debug\net6.0\TPMOD4_1302213061.deps.json
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\bin\Debug\net6.0\TPMOD4_1302213061.runtimeconfig.json
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\bin\Debug\net6.0\TPMOD4_1302213061.dll
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\bin\Debug\net6.0\TPMOD4_1302213061.pdb
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.csproj.AssemblyReference.cache
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.AssemblyInfoInputs.cache
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.AssemblyInfo.cs
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.csproj.CoreCompileInputs.cache
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.dll
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\refint\TPMOD4_1302213061.dll
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.pdb
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\TPMOD4_1302213061.genruntimeconfig.cache
+C:\Sekolah\Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TPM4\MODUL4\TPMOD4_1302213061\TPMOD4_1302213061\obj\Debug\net6.0\ref\TPMOD4_1302213061.dll
